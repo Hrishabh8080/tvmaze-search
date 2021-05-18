@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tvmaze-search/static/css/main.428f2c00.chunk.css",
+    "main.js": "/tvmaze-search/static/js/main.8f432a4b.chunk.js",
+    "main.js.map": "/tvmaze-search/static/js/main.8f432a4b.chunk.js.map",
+    "runtime-main.js": "/tvmaze-search/static/js/runtime-main.d84951f6.js",
+    "runtime-main.js.map": "/tvmaze-search/static/js/runtime-main.d84951f6.js.map",
+    "static/js/2.fbea9290.chunk.js": "/tvmaze-search/static/js/2.fbea9290.chunk.js",
+    "static/js/2.fbea9290.chunk.js.map": "/tvmaze-search/static/js/2.fbea9290.chunk.js.map",
+    "index.html": "/tvmaze-search/index.html",
+    "static/css/main.428f2c00.chunk.css.map": "/tvmaze-search/static/css/main.428f2c00.chunk.css.map",
+    "static/js/2.fbea9290.chunk.js.LICENSE.txt": "/tvmaze-search/static/js/2.fbea9290.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d84951f6.js",
+    "static/js/2.fbea9290.chunk.js",
+    "static/css/main.428f2c00.chunk.css",
+    "static/js/main.8f432a4b.chunk.js"
+  ]
+}
